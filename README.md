@@ -8,3 +8,5 @@ Integrantes:
 *Agustin Robertazzi
 *Bruno Pierdomenico
 *Federico Re
+
+Link: https://www.tinkercad.com/things/bfzxoJby0XG-copy-of-tp-01-cronometro-binario-empty/editel?sharecode=-zbZLP7ztHcBPKxl7029DPXi4v2XEb2jZU_vRru16IE
